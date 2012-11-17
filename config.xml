@@ -22,7 +22,8 @@
     <preference name="orientation"      value="default" />
     <preference name="target-device"    value="universal" />
     <preference name="fullscreen"       value="false" />
-    <preference name="android-minSdkVersion" value="8" />
+    <preference name="android-minSdkVersion" value="7" />
+    <preference name="android-maxSdkVersion" value="8" />
 
     <icon src="icon.png" />
     <icon src="res/icon/android/icon-36-ldpi.png"   gap:platform="android"    gap:density="ldpi" />
